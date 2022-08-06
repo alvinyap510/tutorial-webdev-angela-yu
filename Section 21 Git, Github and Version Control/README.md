@@ -20,6 +20,7 @@ Commands
 - git branch {branchName} => create new branch
 - git branch => check branches
 - git checkout {branchName} => switch between branches
+- git merge {branchName}
 
 Github => Insights => Network
 
